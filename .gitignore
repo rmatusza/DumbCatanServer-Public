@@ -1,0 +1,10 @@
+.settings
+.classpath
+.project
+src/main/resources/application.properties
+src/main/resources/certificate/*
+target
+src/main/resources/logFiles
+.idea/
+dumb-catan.iml
+profiles.xml
